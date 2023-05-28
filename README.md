@@ -47,6 +47,14 @@
 
 ## Output:
 
+![empd 9](https://github.com/Aravindsamy04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497037/3169b226-351c-41d2-9249-e810942fa187)
+
+
+![empd 99](https://github.com/Aravindsamy04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497037/fd25d074-80b3-4ee6-932b-b2c3dd40e3ca)
+![empd 999](https://github.com/Aravindsamy04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497037/46a9370c-1434-45a6-a0d9-cbca7729e813)
+
+
+
 ### Name:
 ### Register Number:
 
